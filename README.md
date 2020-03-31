@@ -12,3 +12,6 @@
 Initiator Projects aims to provide opportunities for developers. Here we will educate, build professional relationships, and create together.
 
 [#initiatorproject](https://www.linkedin.com/feed/hashtag/?keywords=initiatorproject)
+
+## Getting started
+Please [introduce yourself](https://github.com/initiatorproject/initiator/issues/2) and get to know us better.
